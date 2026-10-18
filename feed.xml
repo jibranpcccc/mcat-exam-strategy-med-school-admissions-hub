@@ -4,10 +4,17 @@
     <title>MCAT Exam Strategy &amp; Med School Admissions Hub</title>
     <link>https://mcat-exam-strategy-med-school-admissions-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:08:12 GMT</lastBuildDate>
     <atom:link href="https://mcat-exam-strategy-med-school-admissions-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
+      <link>https://t.me/cloud_native_hub</link>
+      <guid isPermaLink="false">https://mcat-exam-strategy-med-school-admissions-hub.netlify.app/#mcat-exam-strategy-med-school-admissions-hub-telegram-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:08:12 GMT</pubDate>
+      <description>Newly verified community added to MCAT Exam Strategy &amp; Med School Admissions Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
       <link>https://t.me/devops_channel</link>
       <guid isPermaLink="false">https://mcat-exam-strategy-med-school-admissions-hub.netlify.app/#mcat-exam-strategy-med-school-admissions-hub-telegram-20261017-1-2026-10-17</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://mcat-exam-strategy-med-school-admissions-hub.netlify.app/#mcat-exam-strategy-med-school-admissions-hub-forum-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:21:35 GMT</pubDate>
       <description>Newly verified community added to MCAT Exam Strategy &amp; Med School Admissions Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
-    </item>
-<item>
-      <title>MCAT Exam Strategy &amp; Med School Admissions Hub Initial Release</title>
-      <link>https://mcat-exam-strategy-med-school-admissions-hub.netlify.app/</link>
-      <pubDate>Wed, 16 Sep 2026 11:05:35 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>
